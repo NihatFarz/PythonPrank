@@ -29,8 +29,9 @@ Sadəcə bir zarafat kodudur. Cihazınıza zərər verməyəcək narahat olmayı
 
 
 
-Kodu işlətmək üçün aşağıdakı proqramlardan/saytlardan istifadə edə bilərsiniz 👇 
-
+Kodu işlətmək üçün aşağıdakı proqramlardan/saytlardan istifadə edə bilərsiniz
+   
+* Termux
 * Visual Code Studio
 * Pydroid 3
 * Pycharm
