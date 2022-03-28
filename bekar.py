@@ -4,7 +4,7 @@ print(f"#1.Sənin Adın \nMR\t{x} ")
 print('_______________________')
 y=len(x)
 print(" 🐲 🐲 🐲 🐲 🐲 🐲 🐲 ")
-print(f"#2.Adının uzunu ;D {y}")
+print(f"#2.Adındaki hərf sayı ;D {y}")
 print("#########################")
 print(f"#3.Adının Tərsi (Bekarçılıqdandı {x[-1::-1]}")
 age =input("Neçə yaşın var? \n==> ")
@@ -19,5 +19,7 @@ if x=='yox':
 	while True:
 		print("Sistemini Ələ keçirdim..")
 		print("Məlumatlarını yükləyirəm..")
-elif x=='hə':
-	print('Bu sadəcə bir zarafat idi Dostum narahat olma .\n\nTelegram=> ✓✓✓✓✓https://t.me/NihatFarz')
+if x=='hə':
+	while True:
+		print("Sistemini Ələ keçirdim..")
+		print("Məlumatlarını yükləyirəm..")
